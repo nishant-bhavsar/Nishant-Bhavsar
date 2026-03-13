@@ -1,7 +1,18 @@
 - 👋 Hi, I’m @Nishant-Bhavsar
-- 👀 I’m interested in FullStack development and Computer Vision
-- 🌱 I’m currently learning Python, Java, Selenium, Playwright
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/nishantbhavsar/)
+- 👀 Passionate about DevSecOps, Cloud Infrastructure, and Secure Automation
+- 🌱 My skillset includes:
+
+  **Languages & Frameworks**
+  Python | Java | Django | Selenium | Cucumber
+
+  **Cloud & Infrastructure**
+  AWS (EC2, RDS) | Azure Web Apps | Azure Container Apps | Kubernetes
+
+  **DevOps & Automation**
+  Jenkins | Ansible | Linux | CI/CD | Test Automation
+
+- 🔍 Currently exploring DevSecOps tools and diving deeper into Cyber Security
+- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/nishantbhavsar/)
 
 <!---
 Nishant-Bhavsar/Nishant-Bhavsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
